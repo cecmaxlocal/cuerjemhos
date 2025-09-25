@@ -8,6 +8,7 @@ Given the `README.md` structure, the second interpretation seems more likely, or
 
 Let's explore key thoughts around this concept:
 
+![IDECuer](./images/logon.png)
 ---
 
 ### Thoughts on "IDE Cuer" (Visual Basic Extension)

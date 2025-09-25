@@ -1,5 +1,6 @@
 Here's a possible `README.md` for your IDE Cuer Desktop and Develop Files project, assuming it's a Visual Basic application. I've broken it down into sections for clarity.
 
+![IDECuer](./images/logon.png)
 ```markdown
 # IDE Cuer Desktop and Develop Files
 
