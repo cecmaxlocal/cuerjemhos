@@ -1,0 +1,40 @@
+JetBrains, a company renowned for its integrated development environments (IDEs) like IntelliJ IDEA, PyCharm, ReSharper, and others, has a licensing model that is quite different from Google's typical open-source offerings.
+
+JetBrains products are primarily **commercial (proprietary) software**, which means you generally need to purchase a license to use them. They offer various licensing options tailored to different user types.
+
+Here's a breakdown of the common types of licenses you'll encounter with JetBrains:
+
+---
+
+### Common JetBrains Licenses and Models:
+
+1.  **Subscription-Based Commercial Licenses (Most Common):**
+    *   **Per-User, Per-Product:** This is the standard model. You purchase a subscription for a specific IDE (e.g., IntelliJ IDEA Ultimate, PyCharm Professional) for a set period (usually annual).
+    *   **All Products Pack:** JetBrains also offers a bundle that includes licenses for all their desktop IDEs and tools.
+    *   **Perks of Subscription:**
+        *   Access to all updates, including major version upgrades, during the subscription period.
+        *   Perpetual Fallback License: This is a key feature. If you continuously subscribe for **12 consecutive months**, you get a **perpetual fallback license** for the *exact version* of the product you had at the beginning of that 12-month period. This means if you stop subscribing, you can still use that specific older version indefinitely, though you won't get further updates.
+
+2.  **Free Licenses for Specific Groups:**
+    *   **Educational Licenses:** JetBrains offers free licenses for students, teachers, and educational institutions. This is a very popular program and allows full access to their commercial products for learning and teaching purposes.
+    *   **Open Source Project Licenses:** If you are a committer on an active, non-commercial open-source project, you can often apply for free licenses for JetBrains products.
+    *   **User Group Licenses:** Sometimes they provide free licenses to recognized user groups.
+
+3.  **Free Editions:**
+    *   **Community Editions:** Some of their IDEs (most notably IntelliJ IDEA) have free, open-source **Community Editions**. These are powerful but typically offer a subset of the features found in their commercial (Ultimate/Professional) counterparts. For example, IntelliJ IDEA Community Edition is excellent for Java, Kotlin, and Android development but lacks advanced features for web development, enterprise frameworks, and database tools.
+        *   **License for Community Editions:** These typically fall under an **Apache License 2.0** or similar open-source license.
+    *   **Free Tools:** Some smaller, specialized tools (like JetBrains Rider for .NET development on macOS/Linux, though its main version is commercial, it started with a more complex licensing path, and they offer other free utilities).
+
+4.  **Trial Licenses:**
+    *   JetBrains provides free, full-featured **30-day trial periods** for all their commercial products, allowing users to evaluate them before purchasing.
+
+---
+
+### Key Takeaways for JetBrains Licenses:
+
+*   **Primarily Commercial:** Most of JetBrains' flagship IDEs require a paid subscription.
+*   **Subscription Model with Fallback:** The annual subscription model is dominant, with the valuable "perpetual fallback license" for loyal subscribers.
+*   **Strong Support for Education & Open Source:** They are very generous with free licenses for these sectors.
+*   **Community Editions:** Where available (e.g., IntelliJ IDEA), these offer a powerful free alternative but with fewer features than the paid versions, and they are open source (usually Apache 2.0).
+
+If you're looking to use a JetBrains product, your first step should be to check their official website for the specific product you're interested in, as they clearly outline the licensing options and pricing.

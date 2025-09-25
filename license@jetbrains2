@@ -1,0 +1,49 @@
+Okay, let's combine "license," "community," and "JetBrains" to specifically address the licenses for JetBrains' **Community Editions** of their IDEs.
+
+As discussed, while most of JetBrains' flagship IDEs are commercial products requiring a paid subscription, they do offer **free, open-source Community Editions** for some of their products. The most prominent example is **IntelliJ IDEA Community Edition**.
+
+---
+
+### JetBrains Community Edition Licenses
+
+The key difference for Community Editions is that they are licensed under a standard, well-known **open-source license**, primarily the **Apache License 2.0**.
+
+**Example: IntelliJ IDEA Community Edition**
+
+*   **Software:** IntelliJ IDEA Community Edition (and other JetBrains Community products like PyCharm Community Edition for Python development).
+*   **License:** **Apache License, Version 2.0**
+*   **Where to find it:** If you download and install IntelliJ IDEA Community Edition, you'll find the license text within the installation directory (often in a `LICENSE.txt` or similar file), and it's also typically referenced during installation and in the "About" dialog of the IDE. The source code repositories for these community editions on GitHub (e.g., `JetBrains/intellij-community`) also clearly state the Apache 2.0 license.
+
+---
+
+### Why Apache License 2.0 for Community Editions?
+
+*   **Permissive:** The Apache 2.0 license is a permissive open-source license. This means it allows users to:
+    *   **Freely use** the software for any purpose (personal, commercial, educational).
+    *   **Modify** the source code.
+    *   **Distribute** original or modified versions.
+    *   **Combine** it with proprietary code.
+*   **Conditions:** The main conditions are:
+    *   **Attribution:** You must retain copyright, patent, trademark, and attribution notices.
+    *   **State Changes:** If you modify the software, you must clearly indicate that changes were made.
+    *   **Patent Grant:** It includes an explicit grant of patent rights from contributors to users, which is a strong protective feature for users.
+*   **Encourages Adoption and Contribution:** By using a permissive license like Apache 2.0, JetBrains encourages a wider developer base to use, explore, and even contribute to the open-source parts of their ecosystem. This can lead to a healthier and more robust community around their core technologies.
+*   **Compatibility:** Apache 2.0 is highly compatible with many other licenses, making it easy for developers to integrate Community Edition components into larger projects, regardless of those projects' own licensing.
+
+---
+
+### Distinguishing Community vs. Commercial JetBrains Licenses
+
+It's crucial to understand the difference:
+
+*   **JetBrains Commercial/Professional Editions (e.g., IntelliJ IDEA Ultimate, PyCharm Professional, Rider):**
+    *   **License:** Proprietary, subscription-based commercial license.
+    *   **Terms:** Requires payment for use, often with a "perpetual fallback license" if you maintain a subscription for 12 months.
+    *   **Features:** Offer a much broader set of features, integrations, and support compared to their Community counterparts.
+
+*   **JetBrains Community Editions (e.g., IntelliJ IDEA Community, PyCharm Community):**
+    *   **License:** Open Source, specifically **Apache License 2.0**.
+    *   **Terms:** Free to use, modify, and distribute under the terms of Apache 2.0.
+    *   **Features:** Focus on core language support and often lack advanced commercial features (e.g., enterprise framework support, database tools, web development tools in IDEA Community).
+
+So, when you talk about "license community JetBrains," you're almost certainly referring to the **Apache License 2.0** that governs their open-source, free Community Edition products.
