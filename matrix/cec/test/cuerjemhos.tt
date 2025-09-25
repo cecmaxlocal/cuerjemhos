@@ -1,0 +1,3 @@
+<#@ template language="C#" #>
+<#@ assembly name="cuerjemhos.tt"#>
+<#@ output extension=""#>
